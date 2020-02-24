@@ -1,0 +1,6 @@
+┌ Info: My log message
+└ @ Main In[184]:10
+┌ Info: My other log message
+└ @ Main In[184]:11
+┌ Info: Running greetings for Patch
+└ @ Main In[184]:15
